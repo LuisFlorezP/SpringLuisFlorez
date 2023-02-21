@@ -1,12 +1,13 @@
-package com.example.EjercicioUno;
+package com.example.EjerciciosLaptops;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EjercicioUnoApplication {
+public class EjerciciosLaptopsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EjercicioUnoApplication.class, args);
+		SpringApplication.run(EjerciciosLaptopsApplication.class, args);
 	}
+
 }
