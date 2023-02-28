@@ -5,7 +5,6 @@ import com.example.EjerciciosLaptops.repository.LaptopRepository;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 import java.util.Optional;
 
